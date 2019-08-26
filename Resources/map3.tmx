@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="left-down" width="75" height="450" tilewidth="10" tileheight="10" infinite="0" nextlayerid="12" nextobjectid="103">
+ <tileset firstgid="1" source="map.tsx"/>
+ <layer id="11" name="Tile Layer 1" width="75" height="450">
+  <data encoding="base64" compression="zlib">
+   eJzt3bENwCAMBEBC9t85ZSokpAQM+G6Cb3mwKQUAAAAAAAAAAAAAAPiiRgcAAAAAAIBD3dEBAAAAAIAuujwAAAAA2Ic+DwAAAAAA+JO7BwAAAACi6agAAAAAAAAAaKnRAQAAAABgEPMUAAAAwEy6CAAAAGAmXQQAAAAA5KMXBAAAAAB4XdEBgGX4bwEAAAAA72wBAAAAAPLSEQMAAAA9zCYDAAAAAAAAAADkZJc9AAAAMIK9NwAAAACsSncFAAAAbc7NAAAAAAAAAMAMdmECAAAAAAAAAAAAAAAAAADsz+w4wLoeYVMAOQ==
+  </data>
+ </layer>
+ <objectgroup color="#ffaaff" id="6" name="Planets">
+  <object id="95" x="230" y="4379.33">
+   <point/>
+  </object>
+  <object id="96" x="150" y="3849.33">
+   <point/>
+  </object>
+  <object id="97" x="251.333" y="3138">
+   <point/>
+  </object>
+  <object id="98" x="330.667" y="2329.33">
+   <point/>
+  </object>
+  <object id="99" x="220.667" y="1501.33">
+   <point/>
+  </object>
+  <object id="100" x="560.667" y="330.667">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffff00" id="7" name="DirectionalPoints">
+  <object id="101" x="471.333" y="2860.67">
+   <point/>
+  </object>
+  <object id="102" x="680" y="2339.33">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffaa00" id="8" name="SmallPoints"/>
+</map>

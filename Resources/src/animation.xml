@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+	<animation id="mainNormal">
+		<f>C0.png</f>
+		<f>C1.png</f>
+		<f>C2.png</f>
+		<f>C3.png</f>
+		<f>C4.png</f>
+		<f>C5.png</f>
+		<f>C6.png</f>
+		<f>C7.png</f>
+		<f>C8.png</f>
+		<f>C9.png</f>
+		<f>C10.png</f>
+		<f>C11.png</f>
+		<f>C12.png</f>
+		<f>C13.png</f>
+		<f>C14.png</f>
+		<f>C15.png</f>
+		<f>C16.png</f>
+		<f>C17.png</f>
+		<f>C19.png</f>
+		<f>C19.png</f>
+		<f>C20.png</f>
+	</animation>
+	
+		
+	<animation id="A_PLANET_3">
+		<f>Pf300.png</f>
+	</animation>
+	
+	<animation id="A_PLANET_5">
+		<f>Pf500 (1).png</f>
+		<f>Pf500 (2).png</f>
+		<f>Pf500 (3).png</f>
+		<f>Pf500 (4).png</f>
+		<f>Pf500 (5).png</f>
+		<f>Pf500 (6).png</f>
+		<f>Pf500 (7).png</f>
+		<f>Pf500 (8).png</f>
+		<f>Pf500 (9).png</f>
+		<f>Pf500 (10).png</f>
+		<f>Pf500 (11).png</f>
+		<f>Pf500 (12).png</f>
+		<f>Pf500 (13).png</f>
+		<f>Pf500 (14).png</f>
+		<f>Pf500 (15).png</f>
+		<f>Pf500 (16).png</f>
+		<f>Pf500 (17).png</f>
+		<f>Pf500 (18).png</f>
+		<f>Pf500 (19).png</f>
+		<f>Pf500 (20).png</f>
+		<f>Pf500 (21).png</f>
+		<f>Pf500 (22).png</f>
+		<f>Pf500 (23).png</f>
+		<f>Pf500 (24).png</f>
+		<f>Pf500 (25).png</f>
+		<f>Pf500 (26).png</f>
+		<f>Pf500 (27).png</f>
+		<f>Pf500 (28).png</f>
+		<f>Pf500 (29).png</f>
+		<f>Pf500 (30).png</f>
+		<f>Pf500 (31).png</f>
+		<f>Pf500 (32).png</f>
+		<f>Pf500 (33).png</f>
+		<f>Pf500 (34).png</f>
+		<f>Pf500 (35).png</f>
+		<f>Pf500 (36).png</f>
+		<f>Pf500 (37).png</f>
+		<f>Pf500 (38).png</f>
+		<f>Pf500 (39).png</f>
+		<f>Pf500 (40).png</f>
+		<f>Pf500 (41).png</f>
+		<f>Pf500 (42).png</f>
+		<f>Pf500 (43).png</f>
+		<f>Pf500 (44).png</f>
+		<f>Pf500 (45).png</f>
+		<f>Pf500 (46).png</f>
+		<f>Pf500 (47).png</f>
+		<f>Pf500 (48).png</f>
+		<f>Pf500 (49).png</f>
+		<f>Pf500 (50).png</f>
+		<f>Pf500 (51).png</f>
+		<f>Pf500 (52).png</f>
+		<f>Pf500 (53).png</f>
+		<f>Pf500 (54).png</f>
+		<f>Pf500 (55).png</f>
+		<f>Pf500 (56).png</f>
+		<f>Pf500 (57).png</f>
+		<f>Pf500 (58).png</f>
+		<f>Pf500 (59).png</f>
+		<f>Pf500 (60).png</f>
+		<f>Pf500 (61).png</f>
+		<f>Pf500 (62).png</f>
+		<f>Pf500 (63).png</f>
+		<f>Pf500 (64).png</f>
+		<f>Pf500 (65).png</f>
+		<f>Pf500 (66).png</f>
+		<f>Pf500 (67).png</f>
+		<f>Pf500 (68).png</f>
+		<f>Pf500 (69).png</f>
+		<f>Pf500 (70).png</f>
+		<f>Pf500 (71).png</f>
+		<f>Pf500 (72).png</f>
+		<f>Pf500 (73).png</f>
+		<f>Pf500 (74).png</f>
+		<f>Pf500 (75).png</f>
+		<f>Pf500 (76).png</f>
+		<f>Pf500 (77).png</f>
+		<f>Pf500 (78).png</f>
+		<f>Pf500 (79).png</f>
+		<f>Pf500 (80).png</f>
+		<f>Pf500 (81).png</f>
+		<f>Pf500 (82).png</f>
+		<f>Pf500 (83).png</f>
+		<f>Pf500 (84).png</f>
+		<f>Pf500 (85).png</f>
+		<f>Pf500 (86).png</f>
+		<f>Pf500 (87).png</f>
+		<f>Pf500 (88).png</f>
+		<f>Pf500 (89).png</f>
+	</animation>
+	
+	<animation id="A_PLANET_6">
+		<f>Pf600 (1).png</f>
+		<f>Pf600 (2).png</f>
+		<f>Pf600 (3).png</f>
+		<f>Pf600 (4).png</f>
+		<f>Pf600 (5).png</f>
+		<f>Pf600 (6).png</f>
+		<f>Pf600 (7).png</f>
+		<f>Pf600 (8).png</f>
+		<f>Pf600 (9).png</f>
+		<f>Pf600 (10).png</f>
+		<f>Pf600 (11).png</f>
+		<f>Pf600 (12).png</f>
+		<f>Pf600 (13).png</f>
+		<f>Pf600 (14).png</f>
+		<f>Pf600 (15).png</f>
+		<f>Pf600 (16).png</f>
+		<f>Pf600 (17).png</f>
+		<f>Pf600 (18).png</f>
+		<f>Pf600 (19).png</f>
+		<f>Pf600 (20).png</f>
+		<f>Pf600 (21).png</f>
+		<f>Pf600 (22).png</f>
+		<f>Pf600 (23).png</f>
+		<f>Pf600 (24).png</f>
+		<f>Pf600 (25).png</f>
+		<f>Pf600 (26).png</f>
+		<f>Pf600 (27).png</f>
+		<f>Pf600 (28).png</f>
+		<f>Pf600 (29).png</f>
+		<f>Pf600 (30).png</f>
+		<f>Pf600 (31).png</f>
+		<f>Pf600 (32).png</f>
+		<f>Pf600 (33).png</f>
+		<f>Pf600 (34).png</f>
+		<f>Pf600 (35).png</f>
+		<f>Pf600 (36).png</f>
+		<f>Pf600 (37).png</f>
+		<f>Pf600 (38).png</f>
+		<f>Pf600 (39).png</f>
+		<f>Pf600 (40).png</f>
+		<f>Pf600 (41).png</f>
+		<f>Pf600 (42).png</f>
+		<f>Pf600 (43).png</f>
+		<f>Pf600 (44).png</f>
+		<f>Pf600 (45).png</f>
+		<f>Pf600 (46).png</f>
+		<f>Pf600 (47).png</f>
+		<f>Pf600 (48).png</f>
+		<f>Pf600 (49).png</f>
+		<f>Pf600 (50).png</f>
+		<f>Pf600 (51).png</f>
+		<f>Pf600 (52).png</f>
+		<f>Pf600 (53).png</f>
+		<f>Pf600 (54).png</f>
+		<f>Pf600 (55).png</f>
+		<f>Pf600 (56).png</f>
+		<f>Pf600 (57).png</f>
+		<f>Pf600 (58).png</f>
+		<f>Pf600 (59).png</f>
+		<f>Pf600 (60).png</f>
+		<f>Pf600 (61).png</f>
+		<f>Pf600 (62).png</f>
+		<f>Pf600 (63).png</f>
+		<f>Pf600 (64).png</f>
+		<f>Pf600 (65).png</f>
+		<f>Pf600 (66).png</f>
+		<f>Pf600 (67).png</f>
+		<f>Pf600 (68).png</f>
+		<f>Pf600 (69).png</f>
+		<f>Pf600 (70).png</f>
+		<f>Pf600 (71).png</f>
+		<f>Pf600 (72).png</f>
+		<f>Pf600 (73).png</f>
+		<f>Pf600 (74).png</f>
+		<f>Pf600 (75).png</f>
+		<f>Pf600 (76).png</f>
+		<f>Pf600 (77).png</f>
+		<f>Pf600 (78).png</f>
+		<f>Pf600 (79).png</f>
+		<f>Pf600 (80).png</f>
+	</animation>
+	
+	<animation id="A_PLANET_7">
+		<f>Pf700 (1).png</f>
+		<f>Pf700 (2).png</f>
+		<f>Pf700 (3).png</f>
+		<f>Pf700 (4).png</f>
+		<f>Pf700 (5).png</f>
+		<f>Pf700 (6).png</f>
+		<f>Pf700 (7).png</f>
+		<f>Pf700 (8).png</f>
+		<f>Pf700 (9).png</f>
+		<f>Pf700 (10).png</f>
+		<f>Pf700 (11).png</f>
+		<f>Pf700 (12).png</f>
+		<f>Pf700 (13).png</f>
+		<f>Pf700 (14).png</f>
+		<f>Pf700 (15).png</f>
+		<f>Pf700 (16).png</f>
+		<f>Pf700 (17).png</f>
+		<f>Pf700 (18).png</f>
+		<f>Pf700 (19).png</f>
+		<f>Pf700 (20).png</f>
+		<f>Pf700 (21).png</f>
+		<f>Pf700 (22).png</f>
+		<f>Pf700 (23).png</f>
+		<f>Pf700 (24).png</f>
+		<f>Pf700 (25).png</f>
+		<f>Pf700 (26).png</f>
+		<f>Pf700 (27).png</f>
+		<f>Pf700 (28).png</f>
+		<f>Pf700 (29).png</f>
+		<f>Pf700 (30).png</f>
+		<f>Pf700 (31).png</f>
+		<f>Pf700 (32).png</f>
+		<f>Pf700 (33).png</f>
+		<f>Pf700 (34).png</f>
+		<f>Pf700 (35).png</f>
+		<f>Pf700 (36).png</f>
+		<f>Pf700 (37).png</f>
+		<f>Pf700 (38).png</f>
+		<f>Pf700 (39).png</f>
+		<f>Pf700 (40).png</f>
+		<f>Pf700 (41).png</f>
+		<f>Pf700 (42).png</f>
+		<f>Pf700 (43).png</f>
+		<f>Pf700 (44).png</f>
+		<f>Pf700 (45).png</f>
+		<f>Pf700 (46).png</f>
+		<f>Pf700 (47).png</f>
+		<f>Pf700 (48).png</f>
+		<f>Pf700 (49).png</f>
+		<f>Pf700 (50).png</f>
+		<f>Pf700 (51).png</f>
+		<f>Pf700 (52).png</f>
+		<f>Pf700 (53).png</f>
+		<f>Pf700 (54).png</f>
+		<f>Pf700 (55).png</f>
+		<f>Pf700 (56).png</f>
+		<f>Pf700 (57).png</f>
+		<f>Pf700 (58).png</f>
+		<f>Pf700 (59).png</f>
+		<f>Pf700 (60).png</f>
+		<f>Pf700 (61).png</f>
+		<f>Pf700 (62).png</f>
+		<f>Pf700 (63).png</f>
+		<f>Pf700 (64).png</f>
+		<f>Pf700 (65).png</f>
+		<f>Pf700 (66).png</f>
+		<f>Pf700 (67).png</f>
+		<f>Pf700 (68).png</f>
+		<f>Pf700 (69).png</f>
+		<f>Pf700 (70).png</f>
+		<f>Pf700 (71).png</f>
+		<f>Pf700 (72).png</f>
+		<f>Pf700 (73).png</f>
+		<f>Pf700 (74).png</f>
+		<f>Pf700 (75).png</f>
+		<f>Pf700 (76).png</f>
+		<f>Pf700 (77).png</f>
+		<f>Pf700 (78).png</f>
+		<f>Pf700 (79).png</f>
+		<f>Pf700 (80).png</f>
+		<f>Pf700 (81).png</f>
+		<f>Pf700 (82).png</f>
+		<f>Pf700 (83).png</f>
+	</animation>
+
+	
+	<animation id="A_PLANET_8">
+		<f>Pf800 (1).png</f>
+		<f>Pf800 (2).png</f>
+		<f>Pf800 (3).png</f>
+		<f>Pf800 (4).png</f>
+		<f>Pf800 (5).png</f>
+		<f>Pf800 (6).png</f>
+		<f>Pf800 (7).png</f>
+		<f>Pf800 (8).png</f>
+		<f>Pf800 (9).png</f>
+		<f>Pf800 (10).png</f>
+		<f>Pf800 (11).png</f>
+		<f>Pf800 (12).png</f>
+		<f>Pf800 (13).png</f>
+		<f>Pf800 (14).png</f>
+		<f>Pf800 (15).png</f>
+		<f>Pf800 (16).png</f>
+		<f>Pf800 (17).png</f>
+		<f>Pf800 (18).png</f>
+		<f>Pf800 (19).png</f>
+		<f>Pf800 (20).png</f>
+		<f>Pf800 (21).png</f>
+		<f>Pf800 (22).png</f>
+		<f>Pf800 (23).png</f>
+		<f>Pf800 (24).png</f>
+		<f>Pf800 (25).png</f>
+		<f>Pf800 (26).png</f>
+		<f>Pf800 (27).png</f>
+		<f>Pf800 (28).png</f>
+		<f>Pf800 (29).png</f>
+		<f>Pf800 (30).png</f>
+		<f>Pf800 (31).png</f>
+		<f>Pf800 (32).png</f>
+		<f>Pf800 (33).png</f>
+		<f>Pf800 (34).png</f>
+		<f>Pf800 (35).png</f>
+		<f>Pf800 (36).png</f>
+		<f>Pf800 (37).png</f>
+		<f>Pf800 (38).png</f>
+		<f>Pf800 (39).png</f>
+		<f>Pf800 (40).png</f>
+		<f>Pf800 (41).png</f>
+		<f>Pf800 (42).png</f>
+		<f>Pf800 (43).png</f>
+		<f>Pf800 (44).png</f>
+		<f>Pf800 (45).png</f>
+		<f>Pf800 (46).png</f>
+		<f>Pf800 (47).png</f>
+		<f>Pf800 (48).png</f>
+		<f>Pf800 (49).png</f>
+		<f>Pf800 (50).png</f>
+		<f>Pf800 (51).png</f>
+		<f>Pf800 (52).png</f>
+		<f>Pf800 (53).png</f>
+		<f>Pf800 (54).png</f>
+		<f>Pf800 (55).png</f>
+		<f>Pf800 (56).png</f>
+		<f>Pf800 (57).png</f>
+		<f>Pf800 (58).png</f>
+		<f>Pf800 (59).png</f>
+		<f>Pf800 (60).png</f>
+		<f>Pf800 (61).png</f>
+		<f>Pf800 (62).png</f>
+		<f>Pf800 (63).png</f>
+		<f>Pf800 (64).png</f>
+		<f>Pf800 (65).png</f>
+		<f>Pf800 (66).png</f>
+		<f>Pf800 (67).png</f>
+		<f>Pf800 (68).png</f>
+		<f>Pf800 (69).png</f>
+		<f>Pf800 (70).png</f>
+		<f>Pf800 (71).png</f>
+		<f>Pf800 (72).png</f>
+		<f>Pf800 (73).png</f>
+		<f>Pf800 (74).png</f>
+		<f>Pf800 (75).png</f>
+	</animation>
+	
+	<animation id="planet100">
+	</animation>
+	
+	<animation id="A_PLANET_4">
+		<f>Pf400.png</f>
+		<f>Pf401.png</f>
+		<f>Pf402.png</f>
+		<f>Pf403.png</f>
+		<f>Pf404.png</f>
+		<f>Pf405.png</f>
+		<f>Pf406.png</f>
+		<f>Pf407.png</f>
+		<f>Pf408.png</f>
+	</animation>
+
+	<animation id="A_METEO_1">
+		<f>M01.png</f>
+		<f>M02.png</f>
+		<f>M03.png</f>
+		<f>M04.png</f>
+		<f>M05.png</f>
+		<f>M06.png</f>
+		<f>M07.png</f>
+		<f>M08.png</f>
+	</animation>
+	
+	<animation id="A_ITEM_1">
+		<f>If100 (1).png</f>
+		<f>If100 (2).png</f>
+		<f>If100 (3).png</f>
+		<f>If100 (4).png</f>
+		<f>If100 (5).png</f>
+		<f>If100 (6).png</f>
+		<f>If100 (7).png</f>
+		<f>If100 (8).png</f>
+		<f>If100 (9).png</f>
+		<f>If100 (10).png</f>
+		<f>If100 (11).png</f>
+		<f>If100 (12).png</f>
+		<f>If100 (13).png</f>
+		<f>If100 (14).png</f>
+		<f>If100 (15).png</f>
+		<f>If100 (16).png</f>
+		<f>If100 (17).png</f>
+		<f>If100 (18).png</f>
+		<f>If100 (19).png</f>
+		<f>If100 (20).png</f>
+		<f>If100 (21).png</f>
+		<f>If100 (22).png</f>
+		<f>If100 (23).png</f>
+		<f>If100 (24).png</f>
+		<f>If100 (25).png</f>
+		<f>If100 (26).png</f>
+		<f>If100 (27).png</f>
+		<f>If100 (28).png</f>
+		<f>If100 (29).png</f>
+		<f>If100 (30).png</f>
+		<f>If100 (31).png</f>
+		<f>If100 (32).png</f>
+		<f>If100 (33).png</f>
+		<f>If100 (34).png</f>
+		<f>If100 (35).png</f>
+		<f>If100 (36).png</f>
+		<f>If100 (37).png</f>
+		<f>If100 (38).png</f>
+		<f>If100 (39).png</f>
+		<f>If100 (40).png</f>
+		<f>If100 (41).png</f>
+		<f>If100 (42).png</f>
+		<f>If100 (43).png</f>
+		<f>If100 (44).png</f>
+		<f>If100 (45).png</f>
+		<f>If100 (46).png</f>
+		<f>If100 (47).png</f>
+		<f>If100 (48).png</f>
+		<f>If100 (49).png</f>
+		<f>If100 (50).png</f>
+		<f>If100 (51).png</f>
+		<f>If100 (52).png</f>
+		<f>If100 (53).png</f>
+		<f>If100 (54).png</f>
+		<f>If100 (55).png</f>
+		<f>If100 (56).png</f>
+		<f>If100 (57).png</f>
+		<f>If100 (58).png</f>
+		<f>If100 (59).png</f>
+		<f>If100 (60).png</f>
+		<f>If100 (61).png</f>
+		<f>If100 (62).png</f>
+		<f>If100 (63).png</f>
+		<f>If100 (64).png</f>
+		<f>If100 (65).png</f>
+		<f>If100 (66).png</f>
+		<f>If100 (67).png</f>
+		<f>If100 (68).png</f>
+		<f>If100 (69).png</f>
+		<f>If100 (70).png</f>
+		<f>If100 (71).png</f>
+		<f>If100 (72).png</f>
+		<f>If100 (73).png</f>
+		<f>If100 (74).png</f>
+		<f>If100 (75).png</f>
+		<f>If100 (76).png</f>
+		<f>If100 (77).png</f>
+		<f>If100 (78).png</f>
+		<f>If100 (79).png</f>
+		<f>If100 (80).png</f>
+		<f>If100 (81).png</f>
+		<f>If100 (82).png</f>
+		<f>If100 (83).png</f>
+
+	</animation>
+</resource>

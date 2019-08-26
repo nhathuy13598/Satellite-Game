@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="left-down" width="75" height="450" tilewidth="10" tileheight="10" infinite="0" nextlayerid="12" nextobjectid="134">
+ <tileset firstgid="1" source="map.tsx"/>
+ <objectgroup color="#ffaaff" id="6" name="Planets">
+  <object id="95" name="firstPlanet" x="168.667" y="4340">
+   <point/>
+  </object>
+  <object id="96" name="pl2" x="520" y="3510">
+   <point/>
+  </object>
+  <object id="97" name="pl3" x="370" y="2480">
+   <point/>
+  </object>
+  <object id="98" name="pl4" x="160.667" y="1529.33">
+   <point/>
+  </object>
+  <object id="99" name="plll" type="pl4" x="620.667" y="330">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffff00" id="7" name="DirectionalPoints">
+  <object id="100" name="dp1" x="138" y="3954">
+   <properties>
+    <property name="link" value="dp2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="101" name="dp2" x="685.333" y="3976.67">
+   <properties>
+    <property name="link" value="dpl"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="102" name="dp3" x="350.667" y="3310">
+   <properties>
+    <property name="link" value="dp4"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="103" name="dp4" x="50" y="3009.33">
+   <properties>
+    <property name="link" value="dpk"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="104" name="dp5" x="484.667" y="2254">
+   <properties>
+    <property name="link" value="dp6"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="105" name="dp6" x="610" y="1790.67">
+   <properties>
+    <property name="link" value="dpm"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="106" name="dp7" x="396" y="1356.67">
+   <properties>
+    <property name="link" value="dp8"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="107" name="dp8" x="684.667" y="1182.67">
+   <properties>
+    <property name="link" value="dp9"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="108" name="dp9" x="430.667" y="940">
+   <properties>
+    <property name="link" value="dp10"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="109" name="dp10" x="130" y="689.333">
+   <properties>
+    <property name="link" value="dp11"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="130" name="dpl" x="594.667" y="3706.67">
+   <point/>
+  </object>
+  <object id="131" name="dpk" x="230.667" y="2694.67">
+   <point/>
+  </object>
+  <object id="132" name="dpm" x="328" y="1606">
+   <point/>
+  </object>
+  <object id="133" name="dp11" x="416" y="478">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffaa00" id="8" name="SmallPoints">
+  <object id="110" name="sm1" x="353.667" y="3967.5">
+   <point/>
+  </object>
+  <object id="111" name="sm2" x="498.5" y="3972.83">
+   <point/>
+  </object>
+  <object id="112" name="sm3" x="637.833" y="3832.17">
+   <point/>
+  </object>
+  <object id="113" name="sm4" x="223" y="3194">
+   <point/>
+  </object>
+  <object id="115" name="sm5" x="144" y="3114">
+   <point/>
+  </object>
+  <object id="116" name="sm6" x="135" y="2846.83">
+   <point/>
+  </object>
+  <object id="119" name="sm7" x="525" y="2077">
+   <point/>
+  </object>
+  <object id="120" name="sm8" x="561" y="1941">
+   <point/>
+  </object>
+  <object id="121" name="sm9" x="481.5" y="1690.5">
+   <point/>
+  </object>
+  <object id="123" name="sm10" x="546.5" y="1263">
+   <point/>
+  </object>
+  <object id="125" name="sm11" x="559" y="1061.5">
+   <point/>
+  </object>
+  <object id="126" name="sm12" x="311" y="850">
+   <point/>
+  </object>
+  <object id="127" name="sm13" x="235" y="781.5">
+   <point/>
+  </object>
+  <object id="128" name="sm14" x="269" y="574">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

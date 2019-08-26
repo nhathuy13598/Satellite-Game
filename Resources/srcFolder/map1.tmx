@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="left-down" width="75" height="450" tilewidth="10" tileheight="10" infinite="0" nextlayerid="12" nextobjectid="95">
+ <tileset firstgid="1" source="map.tsx"/>
+ <layer id="11" name="Tile Layer 1" width="75" height="450">
+  <data encoding="base64" compression="zlib">
+   eJzt3TkOgDAMBMAA//8zBRVFRBQJO8fMC1zmWNulAAAAAAAAAAAAAAAAtDmzCwAAAAAAAAAAABjAlV0ATOrILqBi1LoAyCdDDwAAdd5JAQAAIJa7OAAAAABAPz1kAAAAAAAAAAAAAAAAAAAAAADwL7uAAQAAgJmYWwwAAOuzExoAAACI5h8SAIBW/rIAYF/OAQAAAAAQR6YLAAAAAAAAAAAAAAAAAAAA1nVmFwAAADAZ89kAAADe7JUDAAAAAAAAgPHoH4VHT7ZF3wB8kxsDAKCH+xYAALAb7+kAAHGcvQAAAABgD/KoAAAAAAAAAAAAZLEDAgDmcgME4wA4
+  </data>
+ </layer>
+ <objectgroup color="#00ffff" id="6" name="Planets">
+  <object id="48" name="firstPlanet" x="393.94" y="4360.72">
+   <point/>
+  </object>
+  <object id="50" name="pl2" x="675" y="3524.67">
+   <point/>
+  </object>
+  <object id="51" name="pl3" x="132.909" y="3032.79">
+   <point/>
+  </object>
+  <object id="53" name="pl6" type="Planet" x="232" y="1768">
+   <point/>
+  </object>
+  <object id="54" name="pl7" type="Planet" x="650" y="739">
+   <point/>
+  </object>
+  <object id="94" name="pl8" x="400" y="344">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffff00" id="7" name="DirectionalPoints">
+  <object id="55" name="dp1" x="280" y="4074">
+   <properties>
+    <property name="link" value="dp2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="56" name="dp2" x="39" y="3717">
+   <properties>
+    <property name="link" value="dp3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="57" name="dp3" x="439" y="3598">
+   <point/>
+  </object>
+  <object id="73" name="dp4" x="327.939" y="3184.55">
+   <point/>
+  </object>
+  <object id="82" name="dp8" x="653.212" y="1196.97">
+   <properties>
+    <property name="link" value="dp9"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="83" name="dp9" x="42.5755" y="738.303">
+   <properties>
+    <property name="link" value="dp10"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="84" name="dp10" x="419.849" y="739.425">
+   <point/>
+  </object>
+  <object id="85" name="dp5" x="150.242" y="2527.27">
+   <properties>
+    <property name="link" value="dp6"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="86" name="dp6" x="692.606" y="2200">
+   <properties>
+    <property name="link" value="dp7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="87" name="dp7" x="433.212" y="1956.73">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffaa00" id="8" name="SmallPoints">
+  <object id="58" name="sp3" x="196.333" y="3653.67">
+   <point/>
+  </object>
+  <object id="59" name="sp2" x="120" y="3853">
+   <point/>
+  </object>
+  <object id="60" name="sp1" x="181" y="3933">
+   <point/>
+  </object>
+  <object id="76" name="sp5" x="480.242" y="3319.03">
+   <point/>
+  </object>
+  <object id="77" name="sp4" x="294" y="3624.67">
+   <point/>
+  </object>
+  <object id="88" name="sp11" x="362" y="2378">
+   <point/>
+  </object>
+  <object id="89" name="sp12" x="470" y="2314">
+   <point/>
+  </object>
+  <object id="90" name="sp13" x="570" y="2082">
+   <point/>
+  </object>
+  <object id="91" name="sp15" x="242.848" y="913.211">
+   <point/>
+  </object>
+  <object id="92" name="sp16" x="201.879" y="737.939">
+   <point/>
+  </object>
+  <object id="93" name="sp14" x="441.031" y="1041.45">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+	<!--Resolution config-->
+	<c id="designResWidth">750</c>
+	<c id="designResHeight">1334</c>
+	<c id="desktopWidth">400</c>
+	<c id="desktopHeight">850</c>
+
+	<!--Main character config-->
+	<c id="mainToPeekTime">0.7</c>
+	<c id="mainToPeekWinMultiply">1.2</c>
+	<c id="mainSelfRotationSpeed">360</c>
+	<c id="mainRotationSpeed">180</c>
+	
+	<c id="C_YELLOW">0</c>
+	<c id="C_GREEN">1</c>
+	<c id="C_BLUE">5</c>
+	<c id="C_RED">6</c>
+	<c id="C_LIGHTING">11</c>
+	
+	<!--Planet config-->
+	<c id="numPlanet">10</c>
+	
+</resource>

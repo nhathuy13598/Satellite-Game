@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource>
+	<string id="gameNameLabel">Satellite</string>
+	<string id="playLabel">Play</string>
+	<string id="highScoreLabel">Hight Score</string>
+	<string id="exitLabel">Exit</string>
+</resource>
